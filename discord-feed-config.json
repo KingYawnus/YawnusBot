@@ -1,0 +1,33 @@
+{
+  "configVersion": 1,
+  "minimumModVersion": "1.0.0",
+  "communityName": "YC",
+  "settings": {
+    "events": {
+      "deaths": true,
+      "extracts": true,
+      "runThroughs": false,
+      "loot": false,
+      "quests": false,
+      "bossKills": true,
+      "levelUps": false,
+      "achievements": false
+    },
+    "loot": {
+      "minimumValue": 999999999
+    },
+    "screenshots": {
+      "enabled": true,
+      "deathScreenshots": true,
+      "extractScreenshots": false,
+      "rareLootScreenshots": false,
+      "questScreenshots": false,
+      "bossKillScreenshots": false,
+      "achievementScreenshots": false
+    },
+    "filters": {
+      "minimumRaidDuration": 60,
+      "ignoredMaps": []
+    }
+  }
+}
